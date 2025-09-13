@@ -1,5 +1,7 @@
 # 🪟 Windows Brute-Force Batch Script
 
+---
+
 > ⚠️ **Disclaimer:** This project is for **educational and research purposes only**. Do **not** use it to access systems without permission. Unauthorized access is illegal.
 
 ---
