@@ -23,5 +23,5 @@ The purpose is to **learn about password security and system protection** safely
 ## 🪴 Usage
 
 1. Download the files included in this repo
-2. Open 'Bruteforce.bat'
+2. Open "Bruteforce.bat"
 3. Use "PasswordList.txt" to find the correct password for the account
