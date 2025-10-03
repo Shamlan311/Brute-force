@@ -8,7 +8,7 @@
 
 ## 🎞️ Overview
 
-This script demonstrates how a brute-force attack works by **actually attempting passwords** on a Windows account in a **controlled, local environment**.  
+This script shows how brute-force attacks work by **actually attempting passwords** on a Windows account in a **controlled, local environment**.  
 The purpose is to **learn about password security and system protection** safely.
 
 ---
